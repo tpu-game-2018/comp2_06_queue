@@ -16,7 +16,7 @@
 
 # テスト結果
 
-[![Build Status](https://travis-ci.org/t-kougei-game-comp/quque.svg?branch=master)](https://travis-ci.org/t-kougei-game-comp/quque)
+[![Build Status](https://travis-ci.org/t-kougei-game-comp-2018/quque.svg?branch=master)](https://travis-ci.org/t-kougei-game-comp-2018/quque)
 
 # 今回の問題
 
