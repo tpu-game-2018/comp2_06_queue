@@ -36,7 +36,7 @@ int main(int argc, char *argv[])
         }
         else
         {
-                x=que[j];
+                que[j] = x;
                 j++;
         }
     }
