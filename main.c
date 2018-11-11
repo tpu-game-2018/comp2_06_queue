@@ -18,7 +18,7 @@ int main(int argc, char *argv[])
         }
         else if(x==-1){
             printf("%d\n",a[0]);
-            for(j=0;j<i-1;j++)
+            for(j=0;j<i;j++)
                 a[j]=a[j+1];
             a[i-1]='\0';
             i--;
