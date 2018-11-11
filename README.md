@@ -16,7 +16,7 @@
 
 # テスト結果
 
-[![Build Status](https://travis-ci.org/t-kougei-game-comp-2018/06_queue.svg?branch=master)](https://travis-ci.org/t-kougei-game-comp-2018/06_queue)
+[![Build Status](https://travis-ci.org/Narita1910/06_queue.svg?branch=master)](https://travis-ci.org/Narita1910/06_queue)
 
 # 今回の問題
 
