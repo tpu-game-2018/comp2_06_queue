@@ -28,7 +28,7 @@ int main(int argc, char *argv[])
             printf("%d\n",que[0]);
              for(i=0;i<j;i++)
                  a[i]=a[i+1];
-             a[j-1]='\0';
+             a[j-1]=\0;
              j--;
         }
         else
