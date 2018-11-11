@@ -8,7 +8,7 @@ int main(int argc, char *argv[])
     
     for(i=0;i<100;i++)
     {
-        que[i]=\0;   
+        que[i]='\0';   
     }
     
     while(fgets(str, sizeof(str), stdin))
