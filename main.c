@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
     while(fgets(str, sizeof(str), stdin)){
         x=atoi(str);
         if(x==0){
-            for(j=0;j<i-1;j++){
+            for(j=0;j<i;j++){
                 printf("%d",a[j]);
                 if(j<i-2)
                     printf(",");
