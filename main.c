@@ -8,7 +8,7 @@ int main(int argc, char *argv[])
 	int i = 0;
 	int j = 0;
 	for (i = 0;i<100;i++) {
-		que[i] = '\0';
+		que[i] = '\n'
 	}
 
 
