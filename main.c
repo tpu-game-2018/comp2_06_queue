@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
         if(x==0){
             for(j=0;j<i;j++){
                 printf("%d",a[j]);
-                if(j<i-2)
+                if(j<i-1)
                     printf(",");
             }
             printf("\n");
