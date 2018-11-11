@@ -19,7 +19,10 @@ int main(int argc, char *argv[])
         {
           for(i=0;i<j;i++)
           {
-              printf("%d,",que[i]);
+              printf("%d",que[i]);
+              
+              if(i<j-1)
+                  printf(",");
           }
             printf("\n");
         }  
